@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Copie of a lettre sent to preachers</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1548</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69356</idno>
+            <idno type="STC">STC 9181.5</idno>
+            <idno type="STC">ESTC S397</idno>
+            <idno type="EEBO-CITATION">22353827</idno>
+            <idno type="OCLC">ocm 22353827</idno>
+            <idno type="VID">15544</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69356)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15544)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1752:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Copie of a lettre sent to preachers</title>
+               </titleStmt>
+               <extent>[14] p.   </extent>
+               <publicationStmt>
+                  <publisher>... by Richard Grafton,</publisher>
+                  <pubPlace>Imprinted in London :</pubPlace>
+                  <date>the first daie of Iune in the second yere of the reigne of Our Souereign Lord Kyng Eduuard VI [1 June 1548]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title: The copie of a letter sent to all those preachers, whiche the Kynges Maiestie has licensed to preache ..., the. xxiii. daie of Maie, in the seconde yere of the reigne of Our Souereigne Lord Kyng Edward the VI.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Cum privilegio ad imprimendum solum"--Colophon.</note>
+                  <note>Signatures: A⁸ (last leaf blank).</note>
+                  <note>Reproduction of original in the Lambeth Palace Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Clergy.</term>
+               <term>Great Britain --  Church history --  16th century.</term>
+               <term>Great Britain --  History --  Edward VI, 1547-1553.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:15544:1"/>
+            <pb facs="tcp:15544:1" rendition="simple:additions"/>
+            <p>
+               <g ref="char:leaf">❧</g> A CO<g ref="char:EOLhyphen"/>PIE OF A LETTRE SENT TO PREA<g ref="char:EOLhyphen"/>CHERS.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:15544:2"/>
+            <pb facs="tcp:15544:2"/>
+            <head>The copie of a letter ſent to all thoſe Preachers, whiche the Kynges Maieſtie hath licenſed to preache from the Lorde Protectors grace, and o<g ref="char:EOLhyphen"/>thers of the Kynges Maieſties moſte honorable counſaill the .xxiii. daie of Maie, in the ſeconde yere of the reigne of our ſoue reigne Lorde Kyng Edward the VI.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Fter our right hartie comme<g ref="char:cmbAbbrStroke">̄</g>daci<g ref="char:EOLhyphen"/>ons: Aſwell for the conſeruacion of the quietnes and good ordre of the Kynges Maieſties ſubiectes, as that theiſhould not by euill &amp; vnlearned Preachers be brought vnto ſuperſticio<g ref="char:cmbAbbrStroke">̄</g>, er<g ref="char:EOLhyphen"/>xor, or euil doctrine, or otherwiſe bee made ſtubborne and diſobe<g ref="char:EOLhyphen"/>dient, to the Kynges Maieſties Godly procedynges, his high<g ref="char:EOLhyphen"/>nes by our aduiſe, hath thought
+<pb facs="tcp:15544:3"/>good to inhibite all maner of Preachers, who hath not ſuche licence, as in the ſame proclama<g ref="char:EOLhyphen"/>tion is alowed to Preache, or ſtirre the people in open and co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>mon Preachynges or Sermo<g ref="char:EOLhyphen"/>nes by any meanes, that the de<g ref="char:EOLhyphen"/>uoute &amp; Godly Homilies might the better in the meane whyle ſincke into his ſubiectes hartes, and be learned the ſoner, the peo<g ref="char:EOLhyphen"/>ple beeyng not toſſed to and fro<g ref="char:cmbAbbrStroke">̄</g> with ſedicious and contencious preachyng, while euery man ac<g ref="char:EOLhyphen"/>cordyng to his zeale, ſome better ſome worſe, goeth about to ſette out his awne phantaſie, and to draw the people to his opinion. Neuertheles, it is not his Ma<g ref="char:EOLhyphen"/>ieſties mynde, hereby clerely to extinct the liuely teachyng of the
+<pb facs="tcp:15544:3"/>woorde of God, by Sermones made after ſuche ſorte, as for the tyme the holy ghoſt, ſhall put in to the preachers mind: But that raſhe, contencious, hote and vn<g ref="char:EOLhyphen"/>diſcrete Preachers ſhould bee ſtopped: and that thei only whi<g ref="char:EOLhyphen"/>che be choſen and electe, diſcrete and ſobre menue, ſhould occupie that place, whiche was made for edificacion, &amp; not for deſtruccio<g ref="char:cmbAbbrStroke">̄</g>, for the honor of God and peace and quietnes of conſcience to be ſet forward, not for priuate glo<g ref="char:EOLhyphen"/>rie to bee auaunced: tappeace, to teache, to inſtruct y<hi rend="sup">e</hi> people with humilitie &amp; pacie<g ref="char:cmbAbbrStroke">̄</g>ce: not to make theim contencious and proude: to inſtill into theim their due<g ref="char:EOLhyphen"/>tie to their heddes and rulers, o<g ref="char:EOLhyphen"/>bedience to Lawes and ordres
+<pb facs="tcp:15544:4"/>appointed by the ſuperiors, who hath rule of God, not that euery man ſhould runne before their heddes hath appoynted theim what to do, and that euery man ſhould choſe his awne waie in religion. The whiche thyng yet beyng dooen of ſome menne, and thei beyng rather prouoked ther to by certain preachers, then de<g ref="char:EOLhyphen"/>horted from it, it was neceſſarie to ſet a ſtay therein. And yet for<g ref="char:EOLhyphen"/>ſomuche, as wee haue a greate confidence and truſt in you, that you will not onely preache truly and ſincerely the worde of God, but alſo wil vſe circumſpeccion and moderacion in youre Prea<g ref="char:EOLhyphen"/>chyng, and ſuche Godly wiſedo<g ref="char:cmbAbbrStroke">̄</g> as ſhalbee neceſſarie, and moſte co<g ref="char:cmbAbbrStroke">̄</g>uenient for the time and place
+<pb facs="tcp:15544:4"/>we haue ſent vnto you, the Kyn<g ref="char:EOLhyphen"/>ges Maieſties licence to Prea<g ref="char:EOLhyphen"/>che, but yet with this exhorta<g ref="char:EOLhyphen"/>tion and admoniſhement: That in nowiſe you dooe ſtirre, and prouoke the people, to any al<g ref="char:EOLhyphen"/>teracion, or innouacion, other then is already ſet furthe by the kynges maieſties Iniunccions, Homeltes, or Proclamacions. But contrariwiſe, that you do in all your ſermones, exhort menne to that whiche is at this tyme more neceſſarie, that is to the e<g ref="char:EOLhyphen"/>mendacion of their awne lifes, to the obſeruaunce of the com<g ref="char:EOLhyphen"/>maundementes of god, to humi<g ref="char:EOLhyphen"/>litie, pacience, and obedience to their heddes and rulers: Confor<g ref="char:EOLunhyphen"/>tyng the weake, and teachyng the<g ref="char:cmbAbbrStroke">̄</g> the right waie, and to flee all
+<pb facs="tcp:15544:5"/>old and erronious ſuperſticio<g ref="char:cmbAbbrStroke">̄</g>s: as the confidence in Pardons, Pilgrymages, Beades, Religi<g ref="char:EOLhyphen"/>ons, Images, and other ſuche of the biſſhoppe of Romes Tradi<g ref="char:EOLhyphen"/>cions, and ſuperſticio<g ref="char:cmbAbbrStroke">̄</g>s, with his vſurped power, the whiche thin<g ref="char:EOLhyphen"/>ges be here in this realme, moſte iuſtly aboliſhed: and ſtraightly rebukyng thoſe, who of an arro<g ref="char:EOLhyphen"/>gancie and proude haſtines, wil take vpon them to runne before thei be ſe<g ref="char:cmbAbbrStroke">̄</g>t, to go before the rulers to alter and chaunge thinges in religio<g ref="char:cmbAbbrStroke">̄</g>, without auchoritie: tea<g ref="char:EOLhyphen"/>chyng theim to expecte, and tary the tyme whiche God hath or<g ref="char:EOLhyphen"/>deined to the reuealyng of all truthe, and not to ſeeke ſo long blyndly and hedlynges after it, till thei bryng al ordres into co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>tempt:
+<pb facs="tcp:15544:5"/>It is not a priuate man<g ref="char:EOLhyphen"/>nes duetie, to alter Ceremonies, to innouate ordres in the Chur<g ref="char:EOLhyphen"/>che, nor yet it is not a Prea<g ref="char:EOLhyphen"/>chers part, to bryng that in con<g ref="char:EOLhyphen"/>tempte and hatered, whiche the Prince doth either alowe, or is content to ſuffre. The Kynges highnes by oure aduiſe, as a Prince moſte earneſtly geuen to the true knowledge of God, and to bryng vp his people therein, dooth not ceaſſe to labor and tra<g ref="char:EOLunhyphen"/>uaile, by all Godly meanes, that his realme might bee brought and kept, in a moſte Godly and Chriſtian ordre, who onely maie and ought to doo it: why ſhould a priuate manne or a Preacher, take this royall and kyngly of<g ref="char:EOLhyphen"/>fice vpon hym? and not rather
+<pb facs="tcp:15544:6"/>as his duetie is, obediently fo<g ref="char:EOLhyphen"/>low hymſelf, and teache likewiſe other to folow, and obſerue that whiche is commaunded. What is aboliſhed, taken awaie, re<g ref="char:EOLhyphen"/>formed, and commaunded, it is eaſie to ſe by the Actes of Parli<g ref="char:EOLhyphen"/>ament, the Iniunccions, Procla<g ref="char:EOLhyphen"/>cions, and Homelies: The whi<g ref="char:EOLhyphen"/>che thynges moſte earneſtly it behoueth all Preachers in their Sermones, to confirme and ap<g ref="char:EOLhyphen"/>proue accordynly: in other thyn<g ref="char:EOLhyphen"/>ges whiche be not yet touched, it behoueth hym to thynke, that ei<g ref="char:EOLhyphen"/>ther the prince doth allowe them or els ſuffre theim: and in thoſe it is the part of a Godly manne, not to thinke hymſelf wiſer then the Kynges Maieſtie and his counſail, but paciently to expect
+<pb facs="tcp:15544:6"/>and to conforme hymſelf therto, and not to entermedle farther to the diſturbaunce of a realme the diſquietyng of the Kynges peo<g ref="char:EOLhyphen"/>ple, the troublyng of mennes conſciences, and diſordre of the Kynges ſubiectes. Theſe thyn<g ref="char:EOLhyphen"/>ges wee haue thought good, to admoniſhe you of at this tyme, becauſe wee thynke you will, ſet the ſame ſo forward in your prea<g ref="char:EOLunhyphen"/>chyng, and ſo inſtructe the kyn<g ref="char:EOLhyphen"/>ges maieſties people accordyn<g ref="char:EOLhyphen"/>gly, to the mooſte auauncement of the glory of God, and the kin<g ref="char:EOLhyphen"/>ges maieſties moſte Godly pro<g ref="char:EOLhyphen"/>cedynges: that we do not doubt, but muche proffite ſhall enſue thereby, and greate conformitie in the people the whiche you do inſtructe: and ſo wee praie you
+<pb facs="tcp:15544:7"/>not to faile to dooe, and hauyng aſpeciall regarde, to the weake<g ref="char:EOLhyphen"/>nes of the people, what thei may beare, and what is moſte conue<g ref="char:EOLhyphen"/>nient for the tyme, in no caſe to entermeddle in youre ſermones or otherwiſe, with matters in co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>tencion, or controuerſion: Ex<g ref="char:EOLhyphen"/>cept it be to reduce the people in them alſo to obedience, and folo<g ref="char:EOLhyphen"/>wyng of ſuche ordres as y<hi rend="sup">e</hi> Kyn<g ref="char:EOLhyphen"/>ges Maieſtie hath all redy ſette furth, and no others: as the kin<g ref="char:EOLhyphen"/>ges Maieſtie and our truſt is in you, and as you tendre his high<g ref="char:EOLhyphen"/>nes will and pleaſure, and wil anſwere to the co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>trarie at youre perill.</p>
+            <closer>
+               <salute>Fare you well.</salute>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <pb facs="tcp:15544:7"/>
+            <p>Imprinted in London, the first daie of Iune in the ſecond yere of the reigne of our ſoue<g ref="char:EOLhyphen"/>reigne lorde kyng Eduuard the .VI: by Richard Grafton, printer to his mooſte royall Maieſtie, in the yere of our lorde.<lb/>
+M.D.XLVIII.</p>
+         </div>
+         <div xml:lang="lat" type="license">
+            <p>CVM PRIVILEGIO AD IMPRIMEN<g ref="char:EOLhyphen"/>DVM SOLVM</p>
+         </div>
+         <div type="printers_device">
+            <pb facs="tcp:15544:8"/>
+            <p>
+               <figure>
+                  <head>
+                     <figure>
+                        <figDesc>device containing the initials of Richard Grafton and the number 4.</figDesc>
+                     </figure>
+                  </head>
+                  <q>SVSCIPITE INSITVM VERBVM <bibl>IACO .I.</bibl>
+                  </q>
+                  <figDesc>printer's device of Richard Grafton</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:15544:8"/>
+         </div>
+      </back>
+   </text>
+</TEI>
